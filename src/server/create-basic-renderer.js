@@ -1,4 +1,4 @@
-/* @flow */
+/* @flow Osmar Palomino */
 
 import { createWriteFunction } from './write'
 import { createRenderFunction } from './render'
